@@ -1,2 +1,2 @@
 # VideoGamesProject
-# Pandas, NumPy, Matplotlib project from yt
+Pandas, NumPy, Matplotlib project from yt
